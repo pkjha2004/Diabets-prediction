@@ -13,8 +13,7 @@ Decision trees offer a transparent and interpretable approach to classification 
 3. MLPClassifier (Multi-Layer Perceptron)
 Neural networks, particularly Multi-Layer Perceptrons (MLPs), have shown remarkable performance in various machine learning tasks, including medical diagnosis. We employed the MLPClassifier from scikit-learn to build a neural network model for diabetes prediction. Using visualization techniques such as learning curves and confusion matrices, we evaluated the MLP's performance and gained insights into its training dynamics and predictive capabilities. Dive into the MLPClassifier notebook to explore our neural network implementation and visualization strategies in detail.
 
-Visualization and Evaluation
-In addition to individual classifier visualizations, we also conducted comprehensive model evaluation and comparison using various performance metrics and visualizations. Through ROC curves, precision-recall curves, and confusion matrices, we assessed each classifier's performance and identified areas for improvement. The visualization.ipynb notebook provides a holistic view of our model evaluation process and showcases the effectiveness of our predictive models.
+
 
 Conclusion
 Our diabetes prediction project demonstrates the efficacy of supervised machine learning algorithms in healthcare applications. By leveraging classifiers such as KNN, decision trees, and MLPs, we've developed accurate and interpretable models for early diabetes detection. We invite you to explore our code, experiment with different classifiers and visualization techniques, and contribute to our ongoing efforts to improve diabetes prediction and healthcare outcomes through advanced data analytics and machine learning.
